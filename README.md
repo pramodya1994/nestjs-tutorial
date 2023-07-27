@@ -48,8 +48,8 @@ Watch changes with starting server `npm run start:dev`
 Linting and formatting
 ```bash
 # Lint and autofix with eslint
-$ npm run lint
+npm run lint
 
 # Format with prettier
-$ npm run format
+npm run format
 ```
